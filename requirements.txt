@@ -1,0 +1,7 @@
+requests
+pycryptodome
+pywinauto
+opencv-python-headless
+Pillow
+psutil
+pywin32

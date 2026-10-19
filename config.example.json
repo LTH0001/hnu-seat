@@ -1,0 +1,20 @@
+{
+  "base_url": "http://chaxin.hnu.edu.cn",
+  "cookie": "",
+  "proxy": "",
+  "signer": "des",
+  "seatdate": "today",
+  "datetime": ["10:30", "22:30"],
+  "candidates": [],
+  "wechat_navigation": {"enabled": true, "exe": ""},
+  "startup_check_enabled": false,
+  "daily_schedule": {
+    "enabled": false,
+    "clock": "22:00",
+    "datetime": ["10:30", "22:30"],
+    "candidates": [],
+    "auto_navigation": true
+  },
+  "booking_window": {"open_hour": 22, "open_minute": 0},
+  "timing": {"request_timeout": 10, "retry_interval_ms": 1000, "max_retry_seconds": 30}
+}
